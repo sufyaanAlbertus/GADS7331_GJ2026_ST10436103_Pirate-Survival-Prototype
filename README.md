@@ -7,7 +7,7 @@
 ---
 
 ## 1. Project Overview
-**Last Watch** is a frantic, 3D isometric survival game rooted in dark-comedy irony. Unlike traditional pirate legends where you play the heroic Captain, here you are the expendable crewmate abandoned on a cursed, sun-drenched shore. Your "allies" have sailed away, leaving you to guard a mountain of gold you can’t carry against an endless tide of skeletal guardians.
+**Last Watch** is a frantic, 3D isometric survival game rooted in dark-comedy irony. Unlike traditional pirate legends where you play the heroic Captain, here you are the expendable crewmate abandoned on a cursed, sun-drenched shore. Your allies have sailed away, leaving you to guard a mountain of gold you can’t carry against an endless tide of skeletal guardians.
 
 ### Core Mechanics:
 * **Survival:** Defend the treasure against escalating waves of skeletons using a single, powerful Sword Sweep.
@@ -40,8 +40,10 @@
 
 ## 4. Credits
 * **Code & Design:** Sufyaan Albertus
-* **Assets:** * 3D Models: Pirate Kit (Low-Poly Stylized)
-    * UI: Weathered Pirate HUD Pack
+* **Assets:**
+  - 3D Models: Pirate Kit (Low-Poly Stylized) : ref: @Quaternius. (2023). Quaternius • Pirate Kit. [online] Available at: https://quaternius.com/packs/piratekit.html.
+  - HUD: ref: 
+  - Animations: ref: 
 * **Tools:** Unity, VS Community, GitHub, ChatGPT/Cursor , Gemini.
 
 ---
