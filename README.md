@@ -10,7 +10,7 @@
 **Last Watch** is a frantic, 3D isometric survival game rooted in dark-comedy irony. Unlike traditional pirate legends where you play the heroic Captain, here you are the expendable crewmate abandoned on a cursed, sun-drenched shore. Your allies have sailed away, leaving you to guard a mountain of gold you can’t carry against an endless tide of skeletal guardians.
 
 ### Core Mechanics:
-* **Survival:** Defend the treasure against escalating waves of skeletons using a single, powerful Sword Sweep.
+* **Survival:** Survive against escalating waves of skeletons using a single, powerful Sword Sweep.
 * **Scavenging:** Collect Tropical Fruit to restore health and Pirate Coins to increase your riches.
 * **Endless Defense:** Combat scales in difficulty until your health reaches zero. The goal is to see how much gold you can secure before the inevitable end.
 
