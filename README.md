@@ -50,7 +50,7 @@
 ## 5. AI Ethics Statement & Attribution
 
 **Compliance & Originality:**
-This project was developed as part of an AI-assisted Game Jam. The core narrative concept — the "Last Man Standing" — was an original creative design. AI tools were used as technical and creative collaborators to accelerate the 3-day development cycle.
+This project was developed as part of an AI-assisted Game Jam. The core narrative concept — the "Last Man Standing" used derivative from the theme "You are not the main character". AI tools were used as technical and creative collaborators to accelerate the 3-day development cycle.
 
 **AI Tool Usage:**
 * **Gemini:** Used for high-level conceptual design, narrative development, and documentation scaffolding (High Concept Doc, Plan, and Refinement Logs).
