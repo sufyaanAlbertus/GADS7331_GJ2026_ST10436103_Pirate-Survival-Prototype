@@ -24,7 +24,7 @@ for Entire Project-
    * Open Unity Hub.
    * Select 'Add' and navigate to the project folder " ".
    * Ensure you are using **Unity 2022.3** or newer.
-for  Playing- 
+for  Playing
 4. **Play the Build:**
    * Navigate to the `/Builds` folder in the repository.
    * **Just run the executable (.exe) build to play the game immediately.**
