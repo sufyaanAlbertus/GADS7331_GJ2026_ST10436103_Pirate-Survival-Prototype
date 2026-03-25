@@ -17,15 +17,15 @@
 ---
 
 ## 2. Installation & Run Instructions
+for Entire Project- 
 1. **Clone the Repository:**
-    https://github.com/sufyaanAlbertus/GADS7331_GJ2026_ST10436103_Pirate-Survival-Prototype.git
-   
-2. **Open in Unity:**
+    https://github.com/sufyaanAlbertus/GADS7331_GJ2026_ST10436103_Pirate-Survival-Prototype.git 
+3. **Open in Unity:**
    * Open Unity Hub.
    * Select 'Add' and navigate to the project folder " ".
    * Ensure you are using **Unity 2022.3** or newer.
-
-3. **Play the Build:**
+for  Playing- 
+4. **Play the Build:**
    * Navigate to the `/Builds` folder in the repository.
    * **Just run the executable (.exe) build to play the game immediately.**
 
