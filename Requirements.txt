@@ -1,5 +1,8 @@
+# Project Dependencies & Tools
 Engine: Unity
-Language: C#
-Tools: Cursor, ChatGPT (Logic & Documentation)
-Resolution: 1920x1080 
-Input: Keyboard (WASD + Space for Attack)
+Version Control: Git / GitHub
+IDE: VS Community
+AI Tools: ChatGpt/Cursor/Gemini 
+Assets: Pirate Kit, HUD, Collectibles
+Scripting: C# (Unity) 
+Documentation: Markdown
