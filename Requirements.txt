@@ -1,0 +1,5 @@
+Engine: Unity
+Language: C#
+Tools: Cursor, ChatGPT (Logic & Documentation)
+Resolution: 1920x1080 
+Input: Keyboard (WASD + Space for Attack)
