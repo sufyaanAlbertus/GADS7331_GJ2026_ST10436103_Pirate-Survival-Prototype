@@ -1,1 +1,31 @@
+# Development Plan: Last Watch
 
+## Milestones & Task List
+
+### Day 1: Ideation, Planning & Base World (Current)
+- [x] Finalize "Last Watch" 3D Isometric theme and High Concept.
+- [x] Set up GitHub Repository.
+- [x] Create `requirements.txt` and `readme.md`.
+- [x] **AI Task:** Used Gemini/ChatGPT to assit in writing documentation .
+- [x] **Player:** Implement 3D Character Controller (WASD movement + Sword Attack).
+- [x] **World:** Set up the beach environment (Sand, Water, Treasure Pile).
+- [x] **HUD:** Create UI for Health Bar, Coin Counter, Enemines left counter, Score and Wave count.
+
+### Day 2: The Prototype Build and Finalise
+- [ ] **Enemies:** Script Skeleton AI (Spawn waves, pathfind to player).
+- [ ] **Collectibles:** Implement Health (Fruit) and Coins.
+- [ ] **Polish:** Add "Game Over" screen and final scoring logic.
+- [ ] **AI Task:** Use ChatGPT to generate C# scripts for the Player-Enemy and Player-Collectable.
+
+### Day 3: Refinement & Submission
+- [ ] **Review:** Ensure all documentation is updated.
+- [ ] **Finalize:** Record 2-5 minute showcase video.
+
+---
+## AI Tools Log
+* **Gemini:** High Concept design, theme development, and documentation.
+* **ChatGPT/IDE:** Integrated AI for rapid script generation and debugging.
+
+---
+## Reflection (Draft - To be completed on Day 3)
+*Placeholder for 200-word reflection on AI excel/limitations, ethics, and process.*
