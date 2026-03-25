@@ -18,7 +18,7 @@
 
 ## 2. Installation & Run Instructions
 1. **Clone the Repository:**
-    
+    https://github.com/sufyaanAlbertus/GADS7331_GJ2026_ST10436103_Pirate-Survival-Prototype.git
    
 2. **Open in Unity:**
    * Open Unity Hub.
