@@ -1,0 +1,26 @@
+# Refinements & Changes Log: Last Watch
+
+### 2026-03-25: Shift to 3D Isometric
+* **Change:** Shifted from 2D Stylized to 3D Third-Person Isometric view.
+* **Reasoning:** A 3D isometric view allows for better spatial awareness on the beach and makes the "horde" of skeletons feel more imposing as they surround the player.
+* **AI Influence:** AI helped re-calculate the player's movement vectors to ensure WASD controls feel natural in an angled isometric perspective.
+
+### 2026-03-25: Theme Subversion
+* **Change:** Pivoted from a "Heroic Pirate" narrative to a "Disposable Guardian" story.
+* **Reasoning:** Shifting the player to an abandoned crewmate adds a dark-comedy layer that justifies the "infinite wave" mechanic—you aren't fighting to win, you're fighting because you were left behind.
+* **AI Influence:** Gemini assisted in brainstorming the "not the main character" concept and drafting the introductory narrative pitch for *Last Watch*.
+
+### 2026-03-25: HUD Scope Expansion
+* **Change:** Implemented a full suite of HUD elements: Health Bar, Coin Counter, Enemies Left, Score, and Wave Count.
+* **Reasoning:** Providing real-time feedback on wave progress and "riches" collected keeps the player engaged and reinforces the goal of surviving "just one more round."
+* **AI Influence:** AI suggested the UI hierarchy for the Unity Canvas to ensure all five indicators remain readable from an angled 3D perspective.
+
+### 2026-03-25: Combat & Character Refinement
+* **Change:** Simplified combat to a single "Sword Sweep" but expanded the scope to include a fully animated playable character (Idle, Run, and Attack animations).
+* **Reasoning:** A single, high-quality animated attack feels better than multiple unpolished weapons. Finalizing the character model and animation state machine today ensures the "feel" of the game is locked in early.
+* **AI Influence:** AI provided the C# logic for the Animator Controller to transition smoothly between movement and the combat swing.
+
+### 2026-03-25: Full World Environment Construction
+* **Change:** Created the entire 3D world environment, including the "Mountain of Gold" center-point, sand terrain, water shaders, and tropical foliage.
+* **Reasoning:** Establishing the full visual context of the "cursed island" on Day 1 was necessary to test the lighting and the 3D isometric camera's field of view before adding enemies.
+* **AI Influence:** AI assisted in optimizing the layout of environmental assets to ensure they didn't obstruct the player's view during high-intensity combat waves.
