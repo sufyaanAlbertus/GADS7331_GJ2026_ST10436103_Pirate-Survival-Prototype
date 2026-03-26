@@ -12,10 +12,10 @@
 - [x] **HUD:** Create UI for Health Bar, Coin Counter, Enemines left counter, Score and Wave count.
 
 ### Day 2: The Prototype Build and Finalise
-- [ ] **Enemies:** Script Skeleton AI (Spawn waves, pathfind to player).
-- [ ] **Collectibles:** Implement Health (Fruit) and Coins.
-- [ ] **Polish:** Add "Game Over" screen and final scoring logic.
-- [ ] **AI Task:** Use ChatGPT to generate C# scripts for the Player-Enemy and Player-Collectable.
+- [x] **Enemies:** Script Skeleton AI (Spawn waves, pathfind to player).
+- [x] **Collectibles:** Implement Health (Fruit) and Coins.
+- [x] **Polish:** Add "Game Over" screen and final scoring logic.
+- [x] **AI Task:** Use ChatGPT to generate C# scripts for the Player-Enemy and Player-Collectable.
 
 ### Day 3: Refinement & Submission
 - [ ] **Review:** Ensure all documentation is updated.
