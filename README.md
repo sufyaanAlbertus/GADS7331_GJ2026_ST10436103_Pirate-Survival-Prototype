@@ -40,12 +40,18 @@
 ## 4. Credits
 * **Code & Design:** Sufyaan Albertus
 * **Assets:**
-  - 3D Models: Pirate Kit (Low-Poly Stylized) : ref: @Quaternius. (2023). Quaternius • Pirate Kit. [online] Available at: https://quaternius.com/packs/piratekit.html.
+  - 3D Models:
+  - Pirate Kit (Low-Poly Stylized) : ref: @Quaternius. (2023). Quaternius • Pirate Kit. [online] Available at: https://quaternius.com/packs/piratekit.html.
+  - Cgtrader.com. (2026). Apple Fruit | CGTrader. [online] Available at: https://www.cgtrader.com/items/2234573/download-page [Accessed 26 Mar. 2026].
+  - Sketchfab (2018). Sketchfab. [online] Sketchfab. Available at: https://sketchfab.com/3d-models/low-poly-gold-coin-7a40d686492545d1a6f6bd0c487f1cb9.
+    ‌
   - HUD: ref:
   - Ftcdn.net. (2026). Available at: https://t3.ftcdn.net/jpg/06/66/17/82/360_F_666178214_50Qu0BPwLspw6rM8WJlpRYl4GSx2rkGP.jpg [Accessed 26 Mar. 2026].,
   - sufyaan09 (2026). - Treasure, Ships, Weapons Pirate Game Elements: Treasure, Ships, Weapons. [online] Pinterest. Available at: https://za.pinterest.com/pin/799600108890711828/sent/invite_code=92e669b887de4b98ba9f75b356c9d3a7&sender=799600246249248726&sfo=1 [Accessed 26 Mar. 2026].
   - Gemini. (n.d.). ‎Gemini – chat to supercharge your ideas. [online] Available at: https://gemini.google.com/app?hl=en-IN. (image creation)
-  - Animations: ref: 3D model assets 
+
+  - Animations: ref: 3D model assets (Pirate Kit) 
+    
 * **Tools:** Unity, VS Community, GitHub, ChatGPT/Cursor , Gemini.
 
 ---
