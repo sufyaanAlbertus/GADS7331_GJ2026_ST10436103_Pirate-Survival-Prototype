@@ -53,7 +53,7 @@
   - Animations: references: 3D model assets (Pirate Kit)
     
   - Audio: references:
-  - Youtu.be. (2026). Available at: https://youtu.be/XgoOuZ5s468?si=Hm9Qrs3TOfb-6W61 [Accessed 26 Mar. 2026].
+  - Youtu.be. (2026). Available at: https://youtu.be/rdB13lFexNk?si=JpDUlNIf6vNn3UGd [Accessed 26 Mar. 2026].
  
 * **Tools:** Unity, VS Community, GitHub, ChatGPT/Cursor , Gemini.
 
