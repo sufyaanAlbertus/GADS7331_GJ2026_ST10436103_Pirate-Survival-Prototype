@@ -31,9 +31,9 @@
 ---
 
 ## 3. Controls
-* **WASD:** Move Character.
+* **W:** Move Character.
 * **Space Bar:** Attack (Swings the sword in the direction the player is facing).
-* **Mouse:** Move the player's direction of attack and navigate menus.
+* **Mouse:** Move the player's direction of attack and position, and navigate menus.
 
 ---
 
@@ -41,8 +41,11 @@
 * **Code & Design:** Sufyaan Albertus
 * **Assets:**
   - 3D Models: Pirate Kit (Low-Poly Stylized) : ref: @Quaternius. (2023). Quaternius • Pirate Kit. [online] Available at: https://quaternius.com/packs/piratekit.html.
-  - HUD: ref: 
-  - Animations: ref: 
+  - HUD: ref:
+  - Ftcdn.net. (2026). Available at: https://t3.ftcdn.net/jpg/06/66/17/82/360_F_666178214_50Qu0BPwLspw6rM8WJlpRYl4GSx2rkGP.jpg [Accessed 26 Mar. 2026].,
+  - sufyaan09 (2026). - Treasure, Ships, Weapons Pirate Game Elements: Treasure, Ships, Weapons. [online] Pinterest. Available at: https://za.pinterest.com/pin/799600108890711828/sent/invite_code=92e669b887de4b98ba9f75b356c9d3a7&sender=799600246249248726&sfo=1 [Accessed 26 Mar. 2026].
+  - Gemini. (n.d.). ‎Gemini – chat to supercharge your ideas. [online] Available at: https://gemini.google.com/app?hl=en-IN. (image creation)
+  - Animations: ref: 3D model assets 
 * **Tools:** Unity, VS Community, GitHub, ChatGPT/Cursor , Gemini.
 
 ---
