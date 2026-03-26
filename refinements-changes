@@ -1,5 +1,5 @@
 # Refinements & Changes Log: Last Watch
-
+## day 1 
 ### 2026-03-25: Shift to 3D Isometric
 * **Change:** Shifted from 2D Stylized to 3D Third-Person Isometric view.
 * **Reasoning:** A 3D isometric view allows for better spatial awareness on the beach and makes the "horde" of skeletons feel more imposing as they surround the player.
@@ -24,3 +24,30 @@
 * **Change:** Created the entire 3D world environment, including the "Mountain of Gold" center-point, sand terrain, water shaders, and tropical foliage.
 * **Reasoning:** Establishing the full visual context of the "cursed island" on Day 1 was necessary to test the lighting and the 3D isometric camera's field of view before adding enemies.
 * **AI Influence:** AI assisted in optimizing the layout of environmental assets to ensure they didn't obstruct the player's view during high-intensity combat waves.
+
+##day 2
+### 2026-03-26: Modular Enemy & Wave Architecture
+* **Change:** Developed a decoupled Enemy system featuring multiple prefabs, a centralized `WaveSpawner` with list-based tracking, and an `EnemyDeathHandler`.
+* **Reasoning:** Moving health bars and `EnemyController` logic onto the prefabs themselves (rather than the spawner) eliminates `NullReferenceExceptions` and allows for seamless scaling when adding future boss or elite types.
+* **AI Influence:** AI assisted in optimizing the `aliveEnemies` list logic to ensure the UI "Enemies Left" counter stays perfectly synced with the `EnemyDeathHandler` triggers.
+
+### 2026-03-26: Advanced Player State & Combat Logic
+* **Change:** Implemented a robust `CharacterController` with a state-driven hit reaction system (`HitRoutine`) and integrated health/reset mechanics.
+* **Reasoning:** Adding a "Hit" state that interrupts attacks prevents "tanking" through enemies and forces the player to play more tactically, reinforcing the "Disposable Guardian" survival theme.
+* **AI Influence:** AI provided the Coroutine structure to manage timing between the `Attack` and `Hit` triggers, ensuring animations don't overlap or hang if the player is hit mid-swing.
+
+### 2026-03-26: Dynamic World-Space UI
+* **Change:** Integrated "Billboard" style health bars that follow enemy transforms and a persistent HUD for wave/player stats.
+* **Reasoning:** In an isometric view, having health bars follow the enemies directly (facing the camera) provides immediate tactical feedback without forcing the player to look away from the action to the screen edges.
+* **AI Influence:** AI suggested the logic for the dynamic UI reset system, ensuring that when the player respawns, all health bars and wave counters re-initialize correctly without script breakages.
+
+### 2026-03-26: Animation State Machine Refinement
+* **Change:** Overhauled the Animator Controller to handle `isRunning`, `Attack`, `Hit`, and `Die` triggers with strict boolean gating.
+* **Reasoning:** Careful management of these states was required to prevent the player from sliding while dead or attacking while in a hit-stun animation, which was a critical bug fix from earlier in the day.
+* **AI Influence:** AI helped debug the transition priorities in the Unity Animator to ensure the `Die` trigger always takes precedence over combat and movement states.
+
+### 2026-03-26: Procedural Wave Scaling
+* **Change:** Built a `WaveSpawner` that scales enemy counts per wave and randomly selects between enemy types during the "Grace Period."
+* **Reasoning:** Randomizing enemy types and increasing density per wave ensures the gameplay loop remains challenging and unpredictable, fitting the "infinite horde" narrative.
+* **AI Influence:** AI assisted in scripting the "Wave Reset" logic, allowing the entire system to clear existing enemies and restart the loop cleanly upon player death.
+
